@@ -117,9 +117,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake.svg" />
-  <img alt="Snake game contribution graph" src="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake.svg?v=1" />
+  <img alt="Snake game contribution graph" src="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake.svg?v=1" width="100%" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
