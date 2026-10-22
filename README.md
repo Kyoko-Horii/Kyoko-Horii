@@ -13,25 +13,27 @@
 <!-- ============ ABOUT ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 <h3>🌌 About Me</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/🎓_IT_Graduate-E5A0B4?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/💼_Web_Developer-E5A0B4?style=for-the-badge&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🎨_UI_Designer-E5A0B4?style=for-the-badge&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🎓_IT_Graduate-D97A9C?style=for-the-badge&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/💼_Web_Developer-D97A9C?style=for-the-badge&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/🎨_UI_Designer-D97A9C?style=for-the-badge&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/📍_Philippines-D97A9C?style=for-the-badge&labelColor=2B2233" />
 </p>
 
 <p><em>Passionate about building useful digital experiences —<br/>exploring the space where technology, design, and everyday problems meet.</em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/🔭_Working_on-Personal_Portfolio-E5A0B4?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/🌱_Learning-Next.js_%2B_TypeScript-E5A0B4?style=flat-square&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/💬_Ask_me-Web_Design_%7C_Kotlin-E5A0B4?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/🔭_Working_on-Personal_Portfolio-D97A9C?style=flat-square&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/🌱_Learning-Next.js_%2B_TypeScript-D97A9C?style=flat-square&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/💬_Ask_me-Web_Design_%7C_Kotlin-D97A9C?style=flat-square&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/⚡_Fun_fact-Coffee_%2B_Code-D97A9C?style=flat-square&labelColor=2B2233" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 </div>
 
@@ -40,28 +42,52 @@
 <!-- ============ TECH STACK ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 <h3>🛠️ Tech Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E5A0B4?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/CSS3-E5A0B4?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/JavaScript-E5A0B4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/TypeScript-E5A0B4?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/HTML5-D97A9C?style=for-the-badge&logo=html5&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/CSS3-D97A9C?style=for-the-badge&logo=css3&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/JavaScript-D97A9C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/TypeScript-D97A9C?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2B2233" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-E5A0B4?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/PHP-E5A0B4?style=for-the-badge&logo=php&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/React-E5A0B4?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Next.js-E5A0B4?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Kotlin-D97A9C?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/PHP-D97A9C?style=for-the-badge&logo=php&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/React-D97A9C?style=for-the-badge&logo=react&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Next.js-D97A9C?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=2B2233" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MySQL-E5A0B4?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Figma-E5A0B4?style=for-the-badge&logo=figma&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/MySQL-D97A9C?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Figma-D97A9C?style=for-the-badge&logo=figma&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Git-D97A9C?style=for-the-badge&logo=git&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/GitHub-D97A9C?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2233" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
+
+</div>
+
+<br/>
+
+<!-- ============ TOOLS ============ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
+
+<h3>🧰 Tools I Use</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-D97A9C?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Android_Studio-D97A9C?style=flat-square&logo=androidstudio&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Figma-D97A9C?style=flat-square&logo=figma&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Postman-D97A9C?style=flat-square&logo=postman&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Notion-D97A9C?style=flat-square&logo=notion&logoColor=white&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/Vercel-D97A9C?style=flat-square&logo=vercel&logoColor=white&labelColor=2B2233" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 </div>
 
@@ -70,22 +96,41 @@
 <!-- ============ GITHUB STATS ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kyoko-Horii&show_icons=true&hide_border=true&title_color=E5A0B4&icon_color=E5A0B4&text_color=c9d1d9&bg_color=1a1b27&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoko-Horii&layout=compact&hide_border=true&title_color=E5A0B4&text_color=c9d1d9&bg_color=1a1b27" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kyoko-Horii&show_icons=true&hide_border=true&title_color=D97A9C&icon_color=D97A9C&text_color=C9B8C4&bg_color=2B2233&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoko-Horii&layout=compact&hide_border=true&title_color=D97A9C&text_color=C9B8C4&bg_color=2B2233" height="160" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoko-Horii&hide_border=true&background=1a1b27&ring=E5A0B4&fire=E5A0B4&currStreakLabel=E5A0B4&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=8b949e" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoko-Horii&hide_border=true&background=2B2233&ring=D97A9C&fire=D97A9C&currStreakLabel=D97A9C&sideNums=C9B8C4&currStreakNum=C9B8C4&sideLabels=C9B8C4&dates=8B7A88" width="60%" />
 
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
+
+</div>
+
+<br/>
+
+<!-- ============ CURRENTLY ============ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
+
+<h3>🚀 Currently</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/📖_Reading-Clean_Code-D97A9C?style=flat-square&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/🎯_Goal-Land_a_Frontend_Role-D97A9C?style=flat-square&labelColor=2B2233" />
+  <img src="https://img.shields.io/badge/🌙_Status-Open_to_Collabs-D97A9C?style=flat-square&labelColor=2B2233" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 </div>
 
@@ -94,17 +139,18 @@
 <!-- ============ CONNECT ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 <h3>📫 Connect With Me</h3>
 
 <p>
-  <a href="mailto:jhelynmedinaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-E5A0B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-E5A0B4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" /></a>
-  <a href="https://github.com/Kyoko-Horii"><img src="https://img.shields.io/badge/GitHub-E5A0B4?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" /></a>
+  <a href="mailto:jhelynmedinaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D97A9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2B2233" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-D97A9C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2B2233" /></a>
+  <a href="https://github.com/Kyoko-Horii"><img src="https://img.shields.io/badge/GitHub-D97A9C?style=for-the-badge&logo=github&logoColor=white&labelColor=2B2233" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-D97A9C?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=2B2233" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:E5A0B4&height=4&width=800" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
 </div>
 
