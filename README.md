@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/latest-demo/sakura.gif" width="100%" height="150" alt="Falling cherry blossoms" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E5A0B4&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E5A0B4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jhelyn+Medina+%F0%9F%8C%B8;Web+Developer+%26+UI+Designer;Frontend+Enthusiast+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -29,7 +29,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/neon-line.svg" width="100%" height="50" alt="Neon Line" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+</div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrng20nT/giphy.gif" width="30px"> About Me
 
@@ -42,7 +44,9 @@ I'm an Information Technology graduate passionate about building useful digital 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/neon-line.svg" width="100%" height="50" alt="Neon Line" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+</div>
 
 ### 🛠️ Tech Stack & Tools
 
@@ -66,7 +70,9 @@ I'm an Information Technology graduate passionate about building useful digital 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/neon-line.svg" width="100%" height="50" alt="Neon Line" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+</div>
 
 ### 📊 GitHub Stats
 
@@ -87,5 +93,5 @@ I'm an Information Technology graduate passionate about building useful digital 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/latest-demo/sakura.gif" width="100%" height="100" alt="Falling cherry blossoms bottom" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E5A0B4&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
