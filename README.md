@@ -35,12 +35,21 @@
 
 <div align="center">
 
-I'm an Information Technology graduate passionate about building useful digital experiences. I enjoy exploring the connection between technology, design, and everyday problems.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
 
-- 🔭 I’m currently working on my **Personal Portfolio**.
-- 🌱 I’m currently learning **Next.js and TypeScript**.
-- 💬 Ask me about **Web Design, Kotlin, or UI Layouts**.
-- 📫 How to reach me: **jhelynmedinaa@gmail.com**
+  <p align="center">
+    <em>"Design is not just what it looks like and feels like. Design is how it works."</em>
+  </p>
+
+  <p>
+    Hi there! I'm an Information Technology graduate with a deep passion for front-end development and user-centric design. I love bridging the gap between beautiful aesthetics and functional code. Whether it's crafting responsive layouts, building intuitive UI, or bringing ideas to life with Next.js, I'm always eager to learn and create.
+  </p>
+
+  <p>
+    🔭 <b>Currently exploring:</b> Advanced Next.js features & TypeScript <br/>
+    🌱 <b>Next on my list:</b> Exploring more backend integrations & APIs <br/>
+    ⚡ <b>Fun fact:</b> I love turning complex problems into simple, beautiful designs.
+  </p>
 
 </div>
 
@@ -54,6 +63,20 @@ I'm an Information Technology graduate passionate about building useful digital 
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+</div>
+
+### 🎧 Currently Vibing To
+<div align="center">
+  <!-- To make this work, replace 'YOUR_SPOTIFY_USERNAME' with your actual Spotify username (e.g., jhelynmedina) -->
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=E5A0B4&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 <br/>
