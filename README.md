@@ -19,6 +19,9 @@
   <a href="https://github.com/Kyoko-Horii">
     <img src="https://img.shields.io/badge/GitHub-Follow-E5A0B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-E5A0B4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
 </div>
 
@@ -47,20 +50,10 @@ I'm an Information Technology graduate passionate about building useful digital 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
 </div>
 
-### 🚀 Featured Projects
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> Developer Quote
 
 <div align="center">
-
-  <!-- Replace YOUR_REPO_NAME with your actual GitHub repository name (e.g., portfolio, gym-management-system) -->
-  <a href="https://github.com/Kyoko-Horii/YOUR_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 1" />
-  </a>
-  
-  <!-- Replace YOUR_OTHER_REPO_NAME with your second repository name -->
-  <a href="https://github.com/Kyoko-Horii/YOUR_OTHER_REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_OTHER_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 2" />
-  </a>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
 </div>
 
 <br/>
@@ -69,7 +62,7 @@ I'm an Information Technology graduate passionate about building useful digital 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
 </div>
 
-### 🛠️ Tech Stack & Tools
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Tech Stack & Tools
 
 <div align="center">
 
@@ -95,7 +88,7 @@ I'm an Information Technology graduate passionate about building useful digital 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
 </div>
 
-### 📊 GitHub Stats
+### <img src="https://media.giphy.com/media/3o7TKoWXm3okO1kgHC/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
 
@@ -103,6 +96,12 @@ I'm an Information Technology graduate passionate about building useful digital 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoko-Horii&layout=compact&theme=radical&title_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Top Languages" width="45%" />
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoko-Horii&theme=radical&background=1a1b27&ring=E5A0B4&fire=E5A0B4&currStreakNum=ffffff&currStreakLabel=E5A0B4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
