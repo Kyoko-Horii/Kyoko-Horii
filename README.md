@@ -25,10 +25,12 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
 </div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrng20nT/giphy.gif" width="30px"> About Me
+
+<div align="center">
 
 I'm an Information Technology graduate passionate about building useful digital experiences. I enjoy exploring the connection between technology, design, and everyday problems.
 
@@ -36,6 +38,8 @@ I'm an Information Technology graduate passionate about building useful digital 
 - 🌱 I’m currently learning **Next.js and TypeScript**.
 - 💬 Ask me about **Web Design, Kotlin, or UI Layouts**.
 - 📫 How to reach me: **jhelynmedinaa@gmail.com**
+
+</div>
 
 <br/>
 
@@ -47,9 +51,12 @@ I'm an Information Technology graduate passionate about building useful digital 
 
 <div align="center">
 
+  <!-- Replace YOUR_REPO_NAME with your actual GitHub repository name (e.g., portfolio, gym-management-system) -->
   <a href="https://github.com/Kyoko-Horii/YOUR_REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 1" />
   </a>
+  
+  <!-- Replace YOUR_OTHER_REPO_NAME with your second repository name -->
   <a href="https://github.com/Kyoko-Horii/YOUR_OTHER_REPO_NAME">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_OTHER_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 2" />
   </a>
