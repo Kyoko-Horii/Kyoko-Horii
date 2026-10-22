@@ -107,16 +107,15 @@
 
 <br/>
 
-<!-- ============ GITHUB STATS & SNAKE ============ -->
+<!-- ============ LANGUAGE USED & SNAKE ============ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
-<h3>📊 GitHub Stats</h3>
+<h3>📊 Language Used</h3>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/stats.svg" height="160" />
 <img src="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/top-langs.svg" height="160" />
 
 <br/><br/>
