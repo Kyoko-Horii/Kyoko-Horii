@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jhelyn Medina 👋
 
-<!--
-**Kyoko-Horii/Kyoko-Horii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology graduate passionate about building useful digital experiences through web development, application development, and thoughtful UI design.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- **Portfolio**: Building my personal website with Next.js and React.
+- **Skills**: Strengthening my frontend development and database fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tools
+- **Languages**: HTML, CSS, JavaScript, TypeScript, Kotlin, PHP
+- **Frameworks & Libraries**: React, Next.js
+- **Database**: MySQL
+- **Design**: Figma, Wireframing
+
+## 📫 Connect with Me
+- **Portfolio**: [Your Website Link]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: jhelynmedinaa@gmail.com
