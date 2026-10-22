@@ -107,18 +107,14 @@
 
 <br/>
 
-<!-- ============ LANGUAGE USED & SNAKE ============ -->
+<!-- ============ SNAKE GAME ============ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2B2233,100:D97A9C&height=3&width=800" width="80%" />
 
-<h3>📊 Language Used</h3>
+<h3>🐍 Contribution Snake</h3>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/top-langs.svg" height="160" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyoko-Horii/Kyoko-Horii/output/github-snake-dark.svg" />
