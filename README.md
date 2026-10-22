@@ -10,11 +10,6 @@
     <em>Building digital experiences with purpose & creativity.</em>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=Kyoko-Horii&label=Profile%20Views&color=E5A0B4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kyoko-Horii?label=Followers&style=for-the-badge&color=E5A0B4&logo=github" alt="Followers" />
-
-  <br/><br/>
-
   <a href="mailto:jhelynmedinaa@gmail.com">
     <img src="https://img.shields.io/badge/Email-jhelynmedinaa%40gmail.com-E5A0B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -30,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrng20nT/giphy.gif" width="30px"> About Me
@@ -45,7 +40,26 @@ I'm an Information Technology graduate passionate about building useful digital 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+</div>
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/Kyoko-Horii">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Kyoko-Horii">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyoko-Horii&repo=YOUR_OTHER_REPO_NAME&theme=radical&title_color=E5A0B4&icon_color=E5A0B4&text_color=ffffff&bg_color=1a1b27&hide_border=true" alt="Project 2" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
 
 ### 🛠️ Tech Stack & Tools
@@ -71,7 +85,7 @@ I'm an Information Technology graduate passionate about building useful digital 
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
 </div>
 
 ### 📊 GitHub Stats
@@ -87,7 +101,14 @@ I'm an Information Technology graduate passionate about building useful digital 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Divider" />
+</div>
+
+### 🎧 Currently Vibing To
+<div align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=true&bar_color=E5A0B4&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 <br/>
