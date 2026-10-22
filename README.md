@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E5A0B4&height=150&section=header&text=Jhelyn%20Medina&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20%26%20UI%20Designer&descAlignY=65&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=E5A0B4&height=200&section=header&text=Jhelyn%20Medina&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20%7C%20UI%20Designer&descAlignY=65&descSize=20" width="100%" alt="Header Banner" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5A0B4&center=true&vCenter=true&width=500&lines=Building+digital+experiences;Frontend+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
@@ -22,23 +22,23 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2" alt="Divider" />
-</div>
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrng20nT/giphy.gif" width="30px"> About Me
-
-<div align="center">
-
-I'm an Information Technology graduate with a deep passion for building clean, responsive, and user-centric web experiences.
-
-I love bridging the gap between beautiful aesthetics and functional code. Whether it's crafting UI layouts in Figma or bringing them to life with React and Next.js, I'm always eager to learn.
-
-- 🔭 **Current Focus:** Next.js & TypeScript
-- 🌱 **Exploring:** Backend Integrations
-- 💬 **Ask me about:** Web Design & Kotlin
-
-</div>
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌸 About Me</h3>
+      <p>I'm an Information Technology graduate with a deep passion for building clean, responsive, and user-centric web experiences.</p>
+      <p>I love bridging the gap between beautiful aesthetics and functional code. Whether it's crafting UI layouts in Figma or bringing them to life with React and Next.js, I'm always eager to learn.</p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Next.js & TypeScript</li>
+        <li>🌱 <b>Exploring:</b> Backend Integrations</li>
+        <li>💬 <b>Ask me about:</b> Web Design & Kotlin</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -50,6 +50,7 @@ I love bridging the gap between beautiful aesthetics and functional code. Whethe
 
 <div align="center">
   
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -59,6 +60,7 @@ I love bridging the gap between beautiful aesthetics and functional code. Whethe
   
   <br/><br/>
 
+  <!-- Frameworks & Tools -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -99,5 +101,5 @@ I love bridging the gap between beautiful aesthetics and functional code. Whethe
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E5A0B4&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=E5A0B4&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
